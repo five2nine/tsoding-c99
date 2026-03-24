@@ -65,3 +65,7 @@ return
 }
 word_count = 295
 ```
+
+## 추가 문서
+
+`main.c`의 설계 의도, `String_View` 정신모형, C99 문법 포인트, 그리고 실전 코드 관점의 함정을 자세히 설명한 문서는 [`main.c.deep-dive.ko.md`](./main.c.deep-dive.ko.md)에서 볼 수 있습니다.
